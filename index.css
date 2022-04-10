@@ -13,7 +13,7 @@ body div{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    font-family: cursive;
+    font-family: sans-serif;
     color: #F55353;
     font-weight: bolder;
 }
